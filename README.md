@@ -150,7 +150,7 @@ dependencies {
 
   [《Android自定View——可以设置宽高比例的ImageView》](http://blog.csdn.net/u012964944/article/details/50600078)
   
-  * #### ScrollPickerView
+  * #### ScrollPickerView  -- 也叫做WheelView
   滚动选择器，支持循环滚动，可实现生日选择器，老虎机等
   
 ```xml
